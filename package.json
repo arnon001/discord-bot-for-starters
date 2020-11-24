@@ -1,10 +1,11 @@
 {
-  "name": "discord-bot-for-starters",
+  "name": "discordbot",
   "version": "0.0.1",
   "description": "Help New Developers To Develop They Discord Bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -20,8 +21,8 @@
   "bugs": {
     "url": "https://github.com/arnongpmc/discord-bot-for-starters/issues"
   },
-  "homepage": "https://github.com/arnongpmc/discord-bot-for-starters#readme"
-    "dependencies": {
-		"discord.js": "^12.5.0"
-	}
+  "homepage": "https://github.com/arnongpmc/discord-bot-for-starters#readme",
+  "dependencies": {
+    "discord.js": "^12.5.0"
+  }
 }
