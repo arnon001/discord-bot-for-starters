@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot-for-starters",
+  "version": "0.0.1",
+  "description": "Help New Developers To Develop They Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnongpmc/discord-bot-for-starters.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "bot"
+  ],
+  "author": "Arnon Hacohen <arnon@gpmc.rf.gd> (http://gpmc.rf.gd/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnongpmc/discord-bot-for-starters/issues"
+  },
+  "homepage": "https://github.com/arnongpmc/discord-bot-for-starters#readme"
+    "dependencies": {
+		"discord.js": "^12.5.0"
+	}
+}
